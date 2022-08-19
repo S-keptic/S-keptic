@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **Maybe our existence is a cosmic joke**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
