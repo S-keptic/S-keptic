@@ -1,5 +1,5 @@
 
-
+<img src = "https://cdn.discordapp.com/attachments/995042522776748114/1010295378333155490/FINAL_.png">
 <h1 align="center">Hi 👋, I'm Skeptic</h1>
 <h3 align="center">Studying Computer Science and Engineering</h3>
 
