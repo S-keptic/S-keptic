@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Skeptic</h1>
 <h3 align="center">Studying Computer Science and Engineering</h3>
 
@@ -10,6 +12,7 @@
 - 📫 Discord **https://discord.com/users/424892977563828225**
 
 - ⚡ Fun fact **Maybe our existence is a cosmic joke**
+
 
 <p align="left">
 </p>
