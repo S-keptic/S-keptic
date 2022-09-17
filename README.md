@@ -10,7 +10,7 @@
 
 - 📫 Discord **https://discord.com/users/424892977563828225**
 
-- ⚡ Fun fact **Maybe our existence is a cosmic joke**
+- ⚡ Fun fact **Maybe our existence is a cosmic joke**   
  
 
 <p align="left">
