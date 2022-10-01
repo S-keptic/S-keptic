@@ -1,4 +1,4 @@
-
+                
 <img src = "https://cdn.discordapp.com/attachments/995042522776748114/1010296026801897533/FINALNOCAP.png">
 <h1 align="center">Hi 👋, I'm Skeptic</h1>       
                
